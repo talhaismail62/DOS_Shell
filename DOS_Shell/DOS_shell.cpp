@@ -1,4 +1,7 @@
-#include "src/Node.h"
+#include <string>
+#include <vector>
+#include <iostream>
+#include <list>
 using namespace std;
 
 vector<string> tokenization(string line) {
